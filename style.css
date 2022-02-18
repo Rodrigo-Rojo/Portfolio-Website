@@ -123,6 +123,10 @@ nav a:hover, nav a:active {
     align-items: center;
 }
 
+.portfolio:last-child {
+    margin-bottom: 2rem;
+}
+
 .projects {
     display: flex;
     flex-direction: row;
