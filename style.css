@@ -61,6 +61,10 @@ img {
     width: 250px;
 }
 
+.aggregator-img {
+    width: 500px;
+}
+
 .h1-animated {
     align-self: center;
     justify-self: center;
@@ -116,7 +120,7 @@ img {
 .projects {
     display: flex;
     flex-direction: row;
-    justify-content: space-between;
+    justify-content: space-around;
     gap: 2rem;
     padding: 5%;
     width: 70%;
@@ -202,6 +206,10 @@ img {
     h1 {
         color: #080808;
         font-size: 2.7rem;
+    }
+
+    .aggregator-img {
+        width: 350px;
     }
 
 }
